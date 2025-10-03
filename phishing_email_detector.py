@@ -30,7 +30,7 @@ else:
     print("No phishing indicators detected.")
 
 print('------------------------')
-print(f'Analyzed subject: {subject}')
+print(f'Analyzed subject: "{subject}"')
 
 
 
